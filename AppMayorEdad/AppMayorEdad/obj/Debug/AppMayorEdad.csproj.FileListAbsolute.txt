@@ -1,0 +1,9 @@
+c:\users\lab104bpc17\documents\visual studio 2012\Projects\AppMayorEdad\AppMayorEdad\bin\Debug\AppMayorEdad.exe.config
+c:\users\lab104bpc17\documents\visual studio 2012\Projects\AppMayorEdad\AppMayorEdad\obj\Debug\AppMayorEdad.csprojResolveAssemblyReference.cache
+c:\users\lab104bpc17\documents\visual studio 2012\Projects\AppMayorEdad\AppMayorEdad\obj\Debug\AppMayorEdad.Form1.resources
+c:\users\lab104bpc17\documents\visual studio 2012\Projects\AppMayorEdad\AppMayorEdad\obj\Debug\AppMayorEdad.Properties.Resources.resources
+c:\users\lab104bpc17\documents\visual studio 2012\Projects\AppMayorEdad\AppMayorEdad\obj\Debug\AppMayorEdad.csproj.GenerateResource.Cache
+c:\users\lab104bpc17\documents\visual studio 2012\Projects\AppMayorEdad\AppMayorEdad\bin\Debug\AppMayorEdad.exe
+c:\users\lab104bpc17\documents\visual studio 2012\Projects\AppMayorEdad\AppMayorEdad\bin\Debug\AppMayorEdad.pdb
+c:\users\lab104bpc17\documents\visual studio 2012\Projects\AppMayorEdad\AppMayorEdad\obj\Debug\AppMayorEdad.exe
+c:\users\lab104bpc17\documents\visual studio 2012\Projects\AppMayorEdad\AppMayorEdad\obj\Debug\AppMayorEdad.pdb
